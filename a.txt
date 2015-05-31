@@ -1,5 +1,7 @@
 test test test aa
 fjsoafja
-test�ύ
+testÌá½»
 
 second commit
+
+server changed
