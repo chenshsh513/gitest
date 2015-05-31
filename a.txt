@@ -1,4 +1,4 @@
-first line
+﻿first line
 fjsoafja
 testÌá½»
 
@@ -6,3 +6,4 @@ second commit
 
 server changed
 server changed 3
+last line
